@@ -1,7 +1,9 @@
 public class test {
 
     public static void main(String[] args) {
-        System.out.println("hello world");
-        System.out.println("hello world");
+       int a = 25;
+       int b = 25;
+       int sum = a+b;
+       System.out.print(sum);
     }
 }
